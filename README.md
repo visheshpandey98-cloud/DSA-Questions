@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0009-palindrome-number) |
 | [2652-sum-multiples](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/2652-sum-multiples) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
