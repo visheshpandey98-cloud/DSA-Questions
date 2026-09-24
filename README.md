@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [1480-running-sum-of-1d-array](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/1732-find-the-highest-altitude) |
+| [2965-find-missing-and-repeated-values](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0268-missing-number) |
 | [2652-sum-multiples](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/2652-sum-multiples) |
+| [2965-find-missing-and-repeated-values](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
