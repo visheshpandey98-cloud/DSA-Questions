@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 ## String
@@ -70,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
