@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 ## String
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -86,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0143-reorder-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
