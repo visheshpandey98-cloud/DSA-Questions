@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0143-reorder-list) |
 ## Stack
 |  |
@@ -82,5 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/visheshpandey98-cloud/DSA-Questions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
